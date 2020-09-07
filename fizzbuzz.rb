@@ -1,2 +1,2 @@
-def fizzbuzz (Integer)
+def fizzbuzz (int)
 end
